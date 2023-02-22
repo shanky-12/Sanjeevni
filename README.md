@@ -1,6 +1,4 @@
-# CS546-FinalProject-38
-
-## ABOUT *SANJEEVNI*
+# *SANJEEVNI*
 
 *Sanjeevni* connects users or patients with required doctors based on specialization. Any outside 
 emergency, we can do emergency booking to hospital visits and do the emergency paper work
